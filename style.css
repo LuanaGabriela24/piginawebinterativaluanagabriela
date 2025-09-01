@@ -8,3 +8,12 @@ padding: 20px;
 font-size: 32px;
 color: black;
 }
+section {
+    background: lightblue;
+    border-bottom: 80px;
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto
